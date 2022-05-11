@@ -1,0 +1,82 @@
+{
+  "name": "UiBank Test Project",
+  "description": "Test Automation Project for UiBank using the UiBank Reusable Ui library",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiBank.Reusable.Ui": "[1.0.4]",
+    "UiPath.System.Activities": "[21.4.1]",
+    "UiPath.Testing.Activities": "[1.3.3]",
+    "UiPath.UIAutomation.Activities": "[21.4.4]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "21.4.4.0",
+  "projectVersion": "1.1.103020170",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "959df285-5626-4bb2-9401-14a843e66c1c",
+        "fileName": "Test Cases\\Loan\\TC_ApplyForLoan_10000Income.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "42eeaea3-6b12-4b8e-a320-9afb0d47e7a5",
+        "fileName": "Test Cases\\User\\TC_User_CheckIfUserExists.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "05ca960b-981f-4c46-aebd-17fc70f835d2",
+        "fileName": "Test Cases\\User\\TC_User_CheckGivenName.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "f8be9435-31f7-4b5d-bc6e-fcf55853cf95",
+        "dataVariationFilePath": ".variations\\data_Sheet1.json",
+        "fileName": "Test Cases\\Loan\\DDTC_ApplyForLoan.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "24bd65ba-329c-47a5-add9-e7acd759d4d4",
+        "fileName": "Test Cases\\Accounts\\TC_Account_ApplyForChecking.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "63be33f8-a1e2-4f09-a0f0-38075eb1a991",
+        "fileName": "Test Cases\\Accounts\\TC_Account_ApplyForSavings.xaml"
+      }
+    ],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
