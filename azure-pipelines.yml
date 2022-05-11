@@ -16,3 +16,6 @@ steps:
     orchestratorConnection: 'Testsuite_Presales External connection'
     testSet: 'UiBank Background Tests'
     folderName: 'Ionut Nicula'
+  env:
+    OrchestratorClientIdOverride: "ADLqfy4M6cRUaEL6XOxiKpMqyPvjTuUi"
+    OrchestratorAuthorizationUriOverride: "https://id-preprod.uipath.com"
