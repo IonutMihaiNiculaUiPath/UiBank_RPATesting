@@ -1,9 +1,4 @@
 {
   "issueKeyTestcaseValues": {},
-  "testManagerBasePath": "https://staging.uipath.com/ce_presales/CE_Presales_Default/testmanager_",
-  "defaultProject": {
-    "id": "99623583-1700-0000-d50a-0b42a589051f",
-    "name": "TeamCEE",
-    "key": "CEE"
-  }
+  "testManagerBasePath": ""
 }

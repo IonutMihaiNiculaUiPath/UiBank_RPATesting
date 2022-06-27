@@ -1,6 +1,6 @@
 {
   "name": "UiBank Test Project",
-  "description": "Test Automation Project for UiBank using the UiBank Reusable Ui library",
+  "description": "Test Automation Project for UiBank using the UiBank Reusable Ui library.\r\nCI/CD integrated",
   "main": "Main.xaml",
   "dependencies": {
     "UiBank.Reusable.Ui": "[1.0.4]",
@@ -43,37 +43,44 @@
       {
         "editingStatus": "Publishable",
         "testCaseId": "959df285-5626-4bb2-9401-14a843e66c1c",
+        "testCaseType": "TestCase",
         "fileName": "Test Cases\\Loan\\TC_ApplyForLoan_10000Income.xaml"
       },
       {
         "editingStatus": "Publishable",
         "testCaseId": "42eeaea3-6b12-4b8e-a320-9afb0d47e7a5",
+        "testCaseType": "TestCase",
         "fileName": "Test Cases\\User\\TC_User_CheckIfUserExists.xaml"
       },
       {
         "editingStatus": "Publishable",
         "testCaseId": "05ca960b-981f-4c46-aebd-17fc70f835d2",
+        "testCaseType": "TestCase",
         "fileName": "Test Cases\\User\\TC_User_CheckGivenName.xaml"
       },
       {
         "editingStatus": "Publishable",
         "testCaseId": "f8be9435-31f7-4b5d-bc6e-fcf55853cf95",
         "dataVariationFilePath": ".variations\\data_Sheet1.json",
+        "testCaseType": "TestCase",
         "fileName": "Test Cases\\Loan\\DDTC_ApplyForLoan.xaml"
       },
       {
         "editingStatus": "Publishable",
         "testCaseId": "24bd65ba-329c-47a5-add9-e7acd759d4d4",
+        "testCaseType": "TestCase",
         "fileName": "Test Cases\\Accounts\\TC_Account_ApplyForChecking.xaml"
       },
       {
         "editingStatus": "Publishable",
         "testCaseId": "63be33f8-a1e2-4f09-a0f0-38075eb1a991",
+        "testCaseType": "TestCase",
         "fileName": "Test Cases\\Accounts\\TC_Account_ApplyForSavings.xaml"
       },
       {
         "editingStatus": "InProgress",
         "testCaseId": "4e9ed85e-8654-4bef-8104-1225954c0a1e",
+        "testCaseType": "TestCase",
         "fileName": "Demo.xaml"
       }
     ],
