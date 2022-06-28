@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "21.4.4.0",
-  "projectVersion": "1.1.103020170",
+  "projectVersion": "1.1.110110419",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -78,10 +78,41 @@
         "fileName": "Test Cases\\Accounts\\TC_Account_ApplyForSavings.xaml"
       },
       {
-        "editingStatus": "InProgress",
-        "testCaseId": "4e9ed85e-8654-4bef-8104-1225954c0a1e",
+        "editingStatus": "Publishable",
+        "testCaseId": "b6b98a6e-1aee-49ad-ab44-895e694abccb",
         "testCaseType": "TestCase",
-        "fileName": "Demo.xaml"
+        "fileName": "Test Cases\\Loan\\Test Loan Approved.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "3c7bea1d-77c7-4650-845c-3faee35ae0a0",
+        "testCaseType": "TestCase",
+        "fileName": "Test Cases\\Loan\\Test Loan Rejected.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "46a12ecc-b9b5-4f3a-970e-ff83001a75d0",
+        "dataVariationFilePath": ".variations\\data_Sheet1.json",
+        "testCaseType": "TestCase",
+        "fileName": "Test Cases\\Loan\\Test Loan DDT.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "c8550045-d014-4452-b128-f9318d752bc3",
+        "testCaseType": "TestCase",
+        "fileName": "Test Cases\\Loan\\Test Loan with Arguments.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "bf7b52ce-594f-481e-aabe-13c95ad1e644",
+        "testCaseType": "TestCase",
+        "fileName": "Workflows\\Jira - Accepted.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "2cd4d0fb-8b3e-4fe6-afbd-4962488b43d0",
+        "testCaseType": "TestCase",
+        "fileName": "Workflows\\Jira - Rejected.xaml"
       }
     ],
     "modernBehavior": true

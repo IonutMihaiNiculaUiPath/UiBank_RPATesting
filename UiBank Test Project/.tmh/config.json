@@ -1,4 +1,9 @@
 {
   "issueKeyTestcaseValues": {},
-  "testManagerBasePath": ""
+  "testManagerBasePath": "https://staging.uipath.com/testsuite_presales/defaulttenant/testmanager_",
+  "defaultProject": {
+    "id": "1640c885-c700-0000-d59e-0b42e486eb8b",
+    "name": "Ionut UiBank",
+    "key": "INICBANK"
+  }
 }
