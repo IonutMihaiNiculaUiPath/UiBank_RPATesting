@@ -1,6 +1,6 @@
 {
   "name": "UiBank Test Project",
-  "description": "Test Automation Project for UiBank using the UiBank Reusable Ui library.\r\nCI/CD integrated",
+  "description": "Test Automation Project for UiBank using the UiBank Reusable Ui library.\r\nCI/CD integrated.\r\nGIT: IonutMihaiNiculaUiPath.UiBank_RPATesting",
   "main": "Main.xaml",
   "dependencies": {
     "UiBank.Reusable.Ui": "[1.0.4]",
