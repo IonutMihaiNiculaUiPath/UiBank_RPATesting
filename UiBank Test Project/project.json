@@ -113,6 +113,13 @@
         "testCaseId": "2cd4d0fb-8b3e-4fe6-afbd-4962488b43d0",
         "testCaseType": "TestCase",
         "fileName": "Workflows\\Jira - Rejected.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "b99318e2-2a7d-41f2-b9fd-5d308f4d0fa6",
+        "dataVariationFilePath": ".variations\\data_Sheet1_1.json",
+        "testCaseType": "TestCase",
+        "fileName": "Workflows\\TestCase_D1.xaml"
       }
     ],
     "modernBehavior": true
