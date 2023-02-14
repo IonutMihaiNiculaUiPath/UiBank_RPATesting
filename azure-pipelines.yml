@@ -14,7 +14,7 @@ steps:
   inputs:
     testTarget: 'TestSet'
     orchestratorConnection: 'Orchestrator Staging Testsuite_presales'
-    testSet: 'UiBank Background Tests'
+    testSet: '[Demo] UiBank Background Tests'
     folderName: 'Ionut Nicula'
   env:
     OrchestratorClientIdOverride: "ADLqfy4M6cRUaEL6XOxiKpMqyPvjTuUi"
